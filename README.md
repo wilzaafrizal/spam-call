@@ -1,4 +1,4 @@
-#stabilize network
+# stabilize network
 
 $pkg update && pkg upgrade
 
